@@ -50,7 +50,7 @@ const Aside = () => {
         <span className={styles.asideUserImageContainer}>
           <Image
             className={styles.asideUserImage}
-            src='/images/Marvin washington.jpg'
+            src='/images/Marvin_Washington.jpg'
             alt='Marvin'
             layout='intrinsic'
             width={100}
