@@ -1,0 +1,16 @@
+{
+  "explore": "EXPLORE MORE",
+  "order": "ORDER NOW",
+  "aside": [
+    { "userTitle1": "Frontend Developer" },
+    { "userTitle2": "Full-Stack Developer" },
+    { "userTitle3": "Blockchain Developer" },
+    { "residence": "Residence" },
+    { "city": "City" },
+    { "age": "Age" },
+    { "persian": "Persian" },
+    { "english": "English" },
+    { "german": "German" },
+    { "download": "DOWNLOAD CV" }
+  ]
+}

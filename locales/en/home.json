@@ -1,0 +1,54 @@
+{
+  "test": "Test",
+  "typed": [
+    { "desktop": "I build Web, Blockchain applications." },
+    { "blockchain": "I am Smart contract, Web3 developer." },
+    { "web": "I build web interfaces." },
+    { "restfull": "I build RESTFUL and GraphQL APIs." },
+    { "cyber": "I am cyber security enthusiast." },
+    { "languages": "I am JavaScripts, TypeScript developer." },
+    { "frontend": "I am ReactJS and NextJS developer." },
+    { "backend": "I am NodeJS, NestJS and Laravel developer." }
+  ],
+  "headers": [
+    { "heading": "What do i make and who am i?" },
+    { "customers": "Happy Customers" },
+    { "projects": "Completed Projects" },
+    { "experience": "Years Of Experience" },
+    { "honors": "Honors and Awards" }
+  ],
+  "about": [
+    { "heading": "About me" },
+    {
+      "paragraph": "I am a dedicated enthusiast of unsolved problems and a highly qualified software engineer with over 8 years of experience in web, blockchain, and software development. I have worked for companies ranging from small startups to large enterprises. I thrive in collaborative environments, embrace change, excel in interpersonal skills, and am always eager to tackle new challenges. My technical expertise includes PHP and Python, along with their frameworks such as Laravel and Django. However, my primary focus is on JavaScript-related technologies, including TypeScript, Node.js, NestJS, Next.js, React, and React Native. Additionally, I possess extensive knowledge of blockchain technologies and handle a wide variety of blockchain applications."
+    },
+    { "fat": "Frameworks and Technologies" }
+  ],
+  "services": [
+    {
+      "title": "Front-End Development",
+      "description": "Front-end web development is the development of the graphical user interface of a website, through the use of HTML, ReactJS and NextJS, so that users can view and interact with the website."
+    },
+    {
+      "title": "Back-End Development",
+      "description": "Back-end development means working on server-side of the software, which focuses on everything you can not see on a website based on NodeJS, DenoJS, NestJS, NextJS and Poco."
+    },
+    {
+      "title": "Blockchain Application Development",
+      "description": "Developing, implementing DApps, DeFi, DAO, NFT marketplaces, NFT staking protocols, NFT launchpads, DAO, Smart Contract using Solidity, Truffle, Hardhat, Rust, Anchor, EVM, Solana, Web3, Ethers.js"
+    },
+    {
+      "title": "Smart Contract Development",
+      "description": "Wrote gas-optimized and secure smart contracts for various kinds of Blockchain applications and proceed with code unit test using test tools"
+    },
+    {
+      "title": "Cyber-Security",
+      "description": "In the digital world, our data is secure as long as we know. Most of the hacks that happen are primarily social engineering attacks in which the human psychology is exploited using data that is put up consciously by people on social media."
+    },
+    {
+      "title": "Search Engine Optimization",
+      "description": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic."
+    },
+    { "heading": "Services" }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "menus": [
+    {
+      "id": 0,
+      "name": "All Categories",
+      "category": "All"
+    },
+    {
+      "id": 1,
+      "name": "Web Development",
+      "category": "Web"
+    },
+    {
+      "id": 2,
+      "name": "Blockchain Development",
+      "category": "Blockchain"
+    },
+    {
+      "id": 3,
+      "name": "Game Development",
+      "category": "Game"
+    }
+  ],
+  "cards": [
+    {
+      "id": 0,
+      "category": "Web",
+      "image": "/images/projects/web-1.png",
+      "title": "Get My Boat",
+      "description": "GetMyBoat connects customers looking to get out on the water with owners that can provide watercraft to do just that!",
+      "link": "https://www.getmyboat.com/"
+    },
+    {
+      "id": 1,
+      "category": "Web",
+      "image": "/images/projects/web-2.png",
+      "title": "Ecommerce",
+      "description": "END. Clothing - The leading retailer of style, sneakers, culture, community. New products added daily.",
+      "link": "https://www.endclothing.com/"
+    },
+    {
+      "id": 2,
+      "category": "Web",
+      "image": "/images/projects/web-3.png",
+      "title": "Bloom",
+      "description": "Bloom is the world's first interactive self-guided video app to do therapy yourself. Start your first week free. Now available on Apple AppStore.",
+      "link": "https://www.enjoybloom.com/"
+    },
+    {
+      "id": 3,
+      "category": "Web",
+      "image": "/images/projects/web-4.png",
+      "title": "World Walk",
+      "description": "Join World Walking and explore our amazing world as you walk to work, walk with friends or walk for health.",
+      "link": "https://worldwalking.org/"
+    },
+    {
+      "id": 4,
+      "category": "Blockchain",
+      "image": "/images/projects/blockchain-4.png",
+      "title": "Dash 2 Trade",
+      "description": "Led by traders and quants, Dash 2 Trade offers a Crypto Analytics and Trading Tools platform. Gain an edge with our 'signals' and access a variety of automated trading tools for enhanced trading.",
+      "link": "https://dash2trade.com/"
+    },
+    {
+      "id": 5,
+      "category": "Blockchain",
+      "image": "/images/projects/blockchain-1.png",
+      "title": "Sol Intel",
+      "description": "Token rug check to analyze risk on Solana network",
+      "link": "https://solintel.io/"
+    },
+    {
+      "id": 6,
+      "category": "Blockchain",
+      "image": "/images/projects/blockchain-2.png",
+      "title": "Dejun",
+      "description": "Discover Agreements from Around the Globe on Cardano & Solana",
+      "link": "https://dejun.io/"
+    },
+    {
+      "id": 7,
+      "category": "Blockchain",
+      "image": "/images/projects/blockchain-3.png",
+      "title": "NFT minting site",
+      "description": "Bullish Club is a community of humans who believe in a crypto future.Bullish Llama is NFT Collection & Mobile app for the real hodlers.",
+      "link": "https://bullishllama.com/mint"
+    },
+
+    {
+      "id": 8,
+      "category": "Game",
+      "image": "/images/projects/game-1.png",
+      "title": "Yaku Hub",
+      "description": "Next-Gen Action MMO/Metaverse. Dream, Create, Own Conquer & Forge Your Destiny in the Shadows of Yakushima",
+      "link": "https://yaku.gg/home"
+    },
+
+    {
+      "id": 9,
+      "category": "Game",
+      "image": "/images/projects/game-3.png",
+      "title": "Roulette",
+      "description": "Roulette on Solana",
+      "link": "https://roulette-seven.vercel.app/"
+    },
+
+    {
+      "id": 10,
+      "category": "Game",
+      "image": "/images/projects/game-4.png",
+      "title": "Poker",
+      "description": "Poker on Multiversx",
+      "link": "https://poker.ddog.club"
+    },
+
+    {
+      "id": 11,
+      "category": "Game",
+      "image": "/images/projects/game-5.png",
+      "title": "Billard",
+      "description": "Billard on Solana",
+      "link": "https://sol-billiard-club.netlify.app/"
+    },
+
+    {
+      "id": 12,
+      "category": "Game",
+      "image": "/images/projects/game-2.png",
+      "title": "Coinflip",
+      "description": "Coinflip on Cardano, VRF",
+      "link": "https://www.cardanocoinflip.io/"
+    },
+
+    {
+      "id": 13,
+      "category": "Blockchain",
+      "image": "/images/projects/blockchain-6.png",
+      "title": "NFT Staking",
+      "description": "In a world where oceans have become toxic and lands unstable there is a collection of uniquely generated platypuses that have entered into a state of ...",
+      "link": "https://platypuscyberpunks.com/"
+    },
+
+    {
+      "id": 14,
+      "category": "Blockchain",
+      "image": "/images/projects/blockchain-5.png",
+      "title": "NFT on XRP",
+      "description": "",
+      "link": "https://moneymindedapes.com/"
+    },
+
+    {
+      "id": 15,
+      "category": "Blockchain",
+      "image": "/images/projects/blockchain-7.png",
+      "title": "NFT Marketplace",
+      "description": "",
+      "link": "https://dapp-prestaging.sundrip.io/"
+    },
+
+    {
+      "id": 16,
+      "category": "Blockchain",
+      "image": "/images/projects/blockchain-8.png",
+      "title": "Circle",
+      "description": "Social on Cardano",
+      "link": "https://hellocircle.io/"
+    },
+    {
+      "id": 17,
+      "category": "Web",
+      "image": "/images/projects/web-5.png",
+      "title": "Furniture Schemes",
+      "description": "Creating Assembly Instruction (Three.js)",
+      "link": "https://schematymontazowe.pl/"
+    }
+  ]
+}

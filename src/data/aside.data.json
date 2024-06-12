@@ -1,0 +1,102 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "progress": "100%",
+      "progressActive": "100%"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "progress": "100%",
+      "progressActive": "100%"
+    },
+    {
+      "id": 3,
+      "name": "Javascript",
+      "progress": "92%",
+      "progressActive": "92%"
+    },
+    {
+      "id": 4,
+      "name": "Typescript",
+      "progress": "90%",
+      "progressActive": "90%"
+    },
+    {
+      "id": 5,
+      "name": "PHP",
+      "progress": "92%",
+      "progressActive": "92%"
+    },
+    {
+      "id": 6,
+      "name": "Solidity",
+      "progress": "100%",
+      "progressActive": "100%"
+    },
+    {
+      "id": 7,
+      "name": "Aiken",
+      "progress": "100%",
+      "progressActive": "70%"
+    },
+    {
+      "id": 8,
+      "name": "Rust",
+      "progress": "100%",
+      "progressActive": "50%"
+    },
+    {
+      "id": 9,
+      "name": "Python",
+      "progress": "90%",
+      "progressActive": "90%"
+    },
+    {
+      "id": 10,
+      "name": "C++",
+      "progress": "78%",
+      "progressActive": "78%"
+    }
+  ],
+  "libraries": [
+    {
+      "id": 1,
+      "names": "Sass, Less, Styled Components, TailWind, MUI"
+    },
+    {
+      "id": 2,
+      "names": "NextJS, ReactJS, Redux"
+    },
+    {
+      "id": 3,
+      "names": "NodeJS, GraphQL, Rest API"
+    },
+    {
+      "id": 4,
+      "names": "ExpressJS, NestJS, Laravel, Django"
+    },
+    {
+      "id": 5,
+      "names": "web3.js, ethers.js, UseDapp"
+    },
+    {
+      "id": 6,
+      "names": "Smart Contract"
+    },
+    {
+      "id": 7,
+      "names": "AWS EC2, S3, Lambda..."
+    },
+    {
+      "id": 8,
+      "names": "MySQL, PostgreSQL, MongoDB"
+    },
+    {
+      "id": 9,
+      "names": "Github, Gitlab, Bitbucket"
+    }
+  ]
+}

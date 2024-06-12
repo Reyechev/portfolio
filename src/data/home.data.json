@@ -1,0 +1,132 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "home:services.0.title",
+      "description": "home:services.0.description"
+    },
+    {
+      "id": 2,
+      "title": "home:services.1.title",
+      "description": "home:services.1.description"
+    },
+    {
+      "id": 3,
+      "title": "home:services.2.title",
+      "description": "home:services.2.description"
+    },
+    {
+      "id": 4,
+      "title": "home:services.3.title",
+      "description": "home:services.3.description"
+    },
+    {
+      "id": 5,
+      "title": "home:services.4.title",
+      "description": "home:services.4.description"
+    },
+    {
+      "id": 6,
+      "title": "home:services.5.title",
+      "description": "home:services.5.description"
+    }
+  ],
+  "fats": {
+    "frontend": [
+      {
+        "id": 1,
+        "name": "HTML",
+        "src": "/images/logos/logo-html.png",
+        "alt": "Html Logo"
+      },
+      {
+        "id": 2,
+        "name": "Sass",
+        "src": "/images/logos/logo-sass.png",
+        "alt": "sass Logo"
+      },
+      {
+        "id": 3,
+        "name": "Styled Component",
+        "src": "/images/logos/logo-styled-component.png",
+        "alt": "Styled Component Logo"
+      },
+      {
+        "id": 4,
+        "name": "ReactJS",
+        "src": "/images/logos/logo-react.png",
+        "alt": "ReactJS Logo"
+      },
+      {
+        "id": 5,
+        "name": "NextJS",
+        "src": "/images/logos/logo-next.png",
+        "alt": "NextJS Logo"
+      },
+      {
+        "id": 5,
+        "name": "MUI",
+        "src": "/images/logos/mui.png",
+        "alt": "MUI Logo"
+      }
+    ],
+    "backend": [
+      {
+        "id": 1,
+        "name": "NodeJS",
+        "src": "/images/logos/logo-node.png",
+        "alt": "NodeJS Logo"
+      },
+      {
+        "id": 2,
+        "name": "ExpressJS",
+        "src": "/images/logos/logo-express.png",
+        "alt": "ExpressJS Logo"
+      },
+      {
+        "id": 3,
+        "name": "NestJS",
+        "src": "/images/logos/logo-nest.png",
+        "alt": "NestJS Logo"
+      },
+      {
+        "id": 4,
+        "name": "Laravel",
+        "src": "/images/logos/laravel.png",
+        "alt": "Laravel Logo"
+      },
+      {
+        "id": 5,
+        "name": "Django",
+        "src": "/images/logos/django.png",
+        "alt": "Django Logo"
+      }
+    ],
+    "crossPlatforms": [
+      {
+        "id": 1,
+        "name": "Ethereum",
+        "src": "/images/logos/eth.png",
+        "alt": "Ethereum Logo"
+      },
+      {
+        "id": 2,
+        "name": "Cardano",
+        "src": "/images/logos/cardano.png",
+        "alt": "Cardano Logo"
+      },
+      {
+        "id": 3,
+        "name": "Solana",
+        "src": "/images/logos/sol.png",
+        "alt": "Solana Logo"
+      },
+      {
+        "id": 4,
+        "name": "XRP",
+        "src": "/images/logos/xrp.svg",
+        "alt": "XRP Logo"
+      }
+    ]
+  }
+}
